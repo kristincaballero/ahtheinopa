@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://zeivahmaeb.yanixgaming.com/sitemap.xml
